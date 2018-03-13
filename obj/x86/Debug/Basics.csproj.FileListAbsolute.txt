@@ -1,0 +1,5 @@
+/Users/JordanWieberg/Projects/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/JordanWieberg/Projects/Basics/Basics/bin/Debug/Basics.exe
+/Users/JordanWieberg/Projects/Basics/Basics/bin/Debug/Basics.pdb
+/Users/JordanWieberg/Projects/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/JordanWieberg/Projects/Basics/Basics/obj/x86/Debug/Basics.pdb
